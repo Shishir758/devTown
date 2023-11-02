@@ -2,7 +2,7 @@
     {
       "id": 1,
       "category": "Electronics",
-      "image": "https://example.com/product1.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8RLHwYJFlTFI6dGr_Q-3Iq5tzZ8oL5FKPGZTuHBCjmWi9Tys91OS29jInrAckJHYGx0s&usqp=CAU",
       "title": "Product 1",
       "description": "This is the description for Product 1. Electronics",
       "price": 19.99
@@ -10,7 +10,7 @@
     {
       "id": 2,
       "category": "Clothing",
-      "image": "https://example.com/product2.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuBM1aAvZT1JUeTH9EqA4jaijQfMYoeoCJkA&usqp=CAU",
       "title": "Product 2",
       "description": "This is the description for Product 2. Clothing",
       "price": 24.99
@@ -18,7 +18,7 @@
     {
       "id": 3,
       "category": "Electronics",
-      "image": "https://example.com/product3.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkx3EMiGuWONQaEeQlucYZ16SxFLjXAGzCr7HCx4akk5q-WX3E14U_ZiKpQiifsqyZ8xk&usqp=CAU",
       "title": "Product 3",
       "description": "This is the description for Product 3. Electronics",
       "price": 14.99
@@ -26,7 +26,7 @@
     {
       "id": 4,
       "category": "Home & Kitchen",
-      "image": "https://example.com/product4.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiRgG1KpBvEriHc2M6bZEjTpX4GbsDIoKWkw&usqp=CAU",
       "title": "Product 4",
       "description": "This is the description for Product 4. Home & Kitchen",
       "price": 29.99
@@ -34,7 +34,7 @@
     {
       "id": 5,
       "category": "Clothing",
-      "image": "https://example.com/product5.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7dzIZVALAqyogeyKEEHqnva5T-KkdoVbcNA&usqp=CAU",
       "title": "Product 5",
       "description": "This is the description for Product 5. Clothing",
       "price": 39.99
@@ -42,7 +42,7 @@
     {
       "id": 6,
       "category": "Electronics",
-      "image": "https://example.com/product6.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtDKwMWU7YH84XesmTsKNe6NH-M9C3YzYSfqZ_3jeeHTTktbJwEKxoy5wGrEayuQopys8&usqp=CAU",
       "title": "Product 6",
       "description": "This is the description for Product 6. Electronics",
       "price": 17.99
@@ -50,7 +50,7 @@
     {
       "id": 7,
       "category": "Home & Kitchen",
-      "image": "https://example.com/product7.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZMhEHlv49LrBQjlyZoTKCwxR2N6XgrCEpA&usqp=CAU",
       "title": "Product 7",
       "description": "This is the description for Product 7. Home & Kitchen",
       "price": 22.99
@@ -58,7 +58,7 @@
     {
       "id": 8,
       "category": "Clothing",
-      "image": "https://example.com/product8.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuBM1aAvZT1JUeTH9EqA4jaijQfMYoeoCJkA&usqp=CAU",
       "title": "Product 8",
       "description": "This is the description for Product 8. Clothing",
       "price": 12.99
@@ -66,7 +66,7 @@
     {
       "id": 9,
       "category": "Electronics",
-      "image": "https://example.com/product9.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtDKwMWU7YH84XesmTsKNe6NH-M9C3YzYSfqZ_3jeeHTTktbJwEKxoy5wGrEayuQopys8&usqp=CAU",
       "title": "Product 9",
       "description": "This is the description for Product 9. Electronics",
       "price": 32.99
@@ -74,7 +74,7 @@
     {
       "id": 10,
       "category": "Home & Kitchen",
-      "image": "https://example.com/product10.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-rZ8_h3pUoWtqaVLenf6-Uk44VuWOdb2VdmCUNcKOBUlNfFZpoLDP1clhZx0DTlZ28g&usqp=CAU",
       "title": "Product 10",
       "description": "This is the description for Product 10. Home & Kitchen",
       "price": 21.99
@@ -82,7 +82,7 @@
     {
       "id": 11,
       "category": "Clothing",
-      "image": "https://example.com/product11.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzS4zw17iUM_ZWm6RrcGd9WAffrhEoOZllKw&usqp=CAU",
       "title": "Product 11",
       "description": "This is the description for Product 11. Clothing",
       "price": 27.99
@@ -90,7 +90,7 @@
     {
       "id": 12,
       "category": "Electronics",
-      "image": "https://example.com/product12.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkx3EMiGuWONQaEeQlucYZ16SxFLjXAGzCr7HCx4akk5q-WX3E14U_ZiKpQiifsqyZ8xk&usqp=CAU",
       "title": "Product 12",
       "description": "This is the description for Product 12. Electronics",
       "price": 19.99
@@ -98,7 +98,7 @@
     {
       "id": 13,
       "category": "Clothing",
-      "image": "https://example.com/product13.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7dzIZVALAqyogeyKEEHqnva5T-KkdoVbcNA&usqp=CAU",
       "title": "Product 13",
       "description": "This is the description for Product 13. Clothing",
       "price": 44.99
@@ -106,7 +106,7 @@
     {
       "id": 14,
       "category": "Home & Kitchen",
-      "image": "https://example.com/product14.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiRgG1KpBvEriHc2M6bZEjTpX4GbsDIoKWkw&usqp=CAU",
       "title": "Product 14",
       "description": "This is the description for Product 14. Home & Kitchen",
       "price": 16.99
@@ -114,7 +114,7 @@
     {
       "id": 15,
       "category": "Electronics",
-      "image": "https://example.com/product15.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFb5yy3EM8BCyIOQ-nWdhrE80tIYc9jYhvA&usqp=CAU",
       "title": "Product 15",
       "description": "This is the description for Product 15. Electronics",
       "price": 36.99
@@ -122,7 +122,7 @@
     {
       "id": 16,
       "category": "Clothing",
-      "image": "https://example.com/product16.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzS4zw17iUM_ZWm6RrcGd9WAffrhEoOZllKw&usqp=CAU",
       "title": "Product 16",
       "description": "This is the description for Product 16. Clothing",
       "price": 23.99
@@ -130,7 +130,7 @@
     {
       "id": 17,
       "category": "Electronics",
-      "image": "https://example.com/product17.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkx3EMiGuWONQaEeQlucYZ16SxFLjXAGzCr7HCx4akk5q-WX3E14U_ZiKpQiifsqyZ8xk&usqp=CAU",
       "title": "Product 17",
       "description": "This is the description for Product 17. Electronics",
       "price": 14.99
@@ -138,7 +138,7 @@
     {
       "id": 18,
       "category": "Home & Kitchen",
-      "image": "https://example.com/product18.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-rZ8_h3pUoWtqaVLenf6-Uk44VuWOdb2VdmCUNcKOBUlNfFZpoLDP1clhZx0DTlZ28g&usqp=CAU",
       "title": "Product 18",
       "description": "This is the description for Product 18. Home & Kitchen",
       "price": 29.99
@@ -146,7 +146,7 @@
     {
         "id": 19,
         "category": "Electronics",
-        "image": "https://example.com/product18.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFb5yy3EM8BCyIOQ-nWdhrE80tIYc9jYhvA&usqp=CAU",
         "title": "Product 19",
         "description": "This is the description for Product 19. Electronics",
         "price": 24.99
@@ -154,7 +154,7 @@
       {
         "id": 20,
         "category": "Clothing",
-        "image": "https://example.com/product18.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuBM1aAvZT1JUeTH9EqA4jaijQfMYoeoCJkA&usqp=CAU",
         "title": "Product 20",
         "description": "This is the description for Product 20. Clothing",
         "price": 79.99
@@ -162,7 +162,7 @@
       {
         "id": 21,
         "category": "Home & Kitchen",
-        "image": "https://example.com/product18.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-rZ8_h3pUoWtqaVLenf6-Uk44VuWOdb2VdmCUNcKOBUlNfFZpoLDP1clhZx0DTlZ28g&usqp=CAU",
         "title": "Product 21",
         "description": "This is the description for Product 21. Home & Kitchen",
         "price": 89.99

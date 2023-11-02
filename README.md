@@ -1,6 +1,10 @@
 # debTown Web Application
 
 Techonologs:
+- React.js.
+- Tailwindcss.
+- daysi ui (Taken Table for products list)
+- .json File to store data.
 
 
 Currently, two official plugins are available:
@@ -11,4 +15,4 @@ Currently, two official plugins are available:
 
 - this is a responsive web application.
 
--Live Link: []
+-Live Link: [https://elegant-chimera-a44bc4.netlify.app/]

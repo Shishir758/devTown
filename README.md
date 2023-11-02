@@ -1,4 +1,4 @@
-# debTown Web Application
+# devTown Web Application
 
 Techonologs:
 - React.js.

@@ -15,4 +15,4 @@ Currently, two official plugins are available:
 
 - this is a responsive web application.
 
--Live Link: [https://elegant-chimera-a44bc4.netlify.app/]
+-Live Link: [https://famous-dusk-410271.netlify.app/]

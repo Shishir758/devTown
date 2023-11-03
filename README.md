@@ -1,4 +1,4 @@
-# devTown Web Application
+# devTown Web Application:
 
 Techonologs:
 - React.js.
@@ -7,7 +7,7 @@ Techonologs:
 - .json File to store data.
 
 
-Currently, two official plugins are available:
+# devTown Web Application Operations:
 
 - Pagination: Every page will show 5 products.
 - Filter: can be filter type of product from drop down option.
